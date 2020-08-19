@@ -14,6 +14,7 @@
     background-position: center center;
     background: url(background.jpg);
     background-size: cover;
+    background-size: contain;
     background-color:#464646;
 }
 
